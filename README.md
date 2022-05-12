@@ -1,12 +1,11 @@
 👋 Hi there,
-I’m Russian by nationality who relocated to Singapore to pursue a masters as a full-time student at Singapore Management University.
+I am highly motivated Data Scientist with 2 years of experience in Deep Learning, Machine Learning and Development.
+I relocated to Singapore to pursue a masters as a full-time student at Singapore Management University.
 For me, it was a step towards making a global career while polishing my knowledge and building a professional skillset.
 
-👀 During my studies, I solidify  my knowledge of financial markets and investments. Learned machine learning, deep learning and big data skills.
+👀 I finished two masters one in Finance and scecond in Data Science. During my studies, I solidify  my knowledge of financial markets and investments as well as learned machine learning, deep learning and big data skills.
 
-🌱 I have recently completed Master's in Business Analytics from Singapore Management University and looking forward to solve challenging business
-problems and grow as a data scientist/ml engineer. I am technically sound in using Python (pandas, numpy, matplotlib, scikit-learn, LightGBM, tensorflow, Keras),
-SQL, Tableau, Advanced-excel.
+🌱 During my work I handlied variety of projects from concept to completion. I am looking forward to solve challenging business problems and grow as a data scientist/ml engineer/mlops.Passionate about Computer Vision.
 
 📫 You can reach me at email - vdovenkoantono@gmail.com, or LinkedIn - https://www.linkedin.com/in/anton-vdovenko/
 
