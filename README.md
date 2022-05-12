@@ -5,7 +5,7 @@ For me, it was a step towards making a global career while polishing my knowledg
 
 👀 I finished two masters one in Finance and scecond in Data Science. During my studies, I solidify  my knowledge of financial markets and investments as well as learned machine learning, deep learning and big data skills.
 
-🌱 During my work I handlied variety of projects from concept to completion. I am looking forward to solve challenging business problems and grow as a data scientist/ml engineer/mlops.Passionate about Computer Vision.
+🌱 During my work I handlied variety of projects from concept to completion. I am looking forward to solve challenging business problems and grow as a data scientist/ml engineer/mlops. Have passion for Computer Vision.
 
 📫 You can reach me at email - vdovenkoantono@gmail.com, or LinkedIn - https://www.linkedin.com/in/anton-vdovenko/
 
