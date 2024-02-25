@@ -1,11 +1,10 @@
 👋 Hi there,
-I am highly motivated Data Scientist with 2 years of experience in Deep Learning, Machine Learning and Development.
-I relocated to Singapore to pursue a masters as a full-time student at Singapore Management University.
-For me, it was a step towards making a global career while polishing my knowledge and building a professional skillset.
+I am a Data Science professional with over 3 years of experience in AI Development, Machine Learning and Data Operations. I am skilled at leading end-to-end implementations of enterprise-wide IT applications in Healthcare, Construction, and Finance domains.
 
-👀 I finished two masters one in Finance and scecond in Data Science. During my studies, I solidify  my knowledge of financial markets and investments as well as learned machine learning, deep learning and big data skills.
+👀 My core competencies include:
+Computer Vision Analytics • LLM Development • Machine Learning • Project Management • Software Development • Data Mining • Data Operations • Research and Development • Stakeholder Management • Python Programming • Deep Learning Training 
 
-🌱 During my work I handlied variety of projects from concept to completion. I am looking forward to solve challenging business problems and grow as a Data Scientist/ML Engineer/MLOps. Have passion for Computer Vision.
+🌱 I am passionate about leveraging data science and artificial intelligence to solve real-world problems and drive positive change. 
 
 📫 You can reach me at email - vdovenkoantono@gmail.com, or LinkedIn - https://www.linkedin.com/in/anton-vdovenko/
 
