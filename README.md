@@ -1,5 +1,5 @@
 👋 Hi there,
-I am a Data Science professional with over 3 years of experience in AI Development, Machine Learning and Data Operations. I am skilled at leading end-to-end implementations of enterprise-wide IT applications in Healthcare, Construction, and Finance domains.
+I am a Machine Learning Engineer professional with over 4 years of experience in AI Development, Machine Learning and Data Operations. I am skilled at leading end-to-end implementations of enterprise-wide IT applications in Healthcare, Construction, and Finance domains.
 
 👀 My core competencies include:
 Computer Vision Analytics • LLM Development • Machine Learning • Project Management • Software Development • Data Mining • Data Operations • Research and Development • Stakeholder Management • Python Programming • Deep Learning Training 
